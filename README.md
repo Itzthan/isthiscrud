@@ -4,5 +4,5 @@ Just Crud
 Documentation CSS Library
 
 Padding & Margin
-You can use padding-top/start/end/bottom to add padding in your HTML code
-You can use margin-top/start/end/bottom to add padding in your HTML code
+You can use p-top/right/left/bottom-5 to add padding 5px in your HTML code
+You can use m-top/right/left/bottom-5 to add padding 5px in your HTML code
